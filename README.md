@@ -7,9 +7,9 @@ Css
 JavaScript
 
 ## Screenshot
-![screenshot_1](https://github.com/AngelPrz8a/Html_Css_Practico_3/blob/main/assets/images/screenshot_1.jpeg)
-![screenshot_2](https://github.com/AngelPrz8a/Html_Css_Practico_3/blob/main/assets/images/screenshot_2.jpeg)
-![screenshot_3](https://github.com/AngelPrz8a/Html_Css_Practico_3/blob/main/assets/images/screenshot_3.jpeg)
+![screenshot_1](https://github.com/AngelPrz8a/Html_Css_Practico_3/blob/main/assets/img/screenshot_1.jpeg)
+![screenshot_2](https://github.com/AngelPrz8a/Html_Css_Practico_3/blob/main/assets/img/screenshot_2.jpeg)
+![screenshot_3](https://github.com/AngelPrz8a/Html_Css_Practico_3/blob/main/assets/img/screenshot_3.jpeg)
 
 ## Links
 
